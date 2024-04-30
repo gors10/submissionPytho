@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 Setup Environment - Shell/Terminal
 
-mkdir submission
+mkdir submissionPytho
 
 cd dashboard
 
